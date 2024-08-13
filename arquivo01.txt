@@ -1,0 +1,2 @@
+init-Inicializa um repositório 
+status - exibe status de working e stage 

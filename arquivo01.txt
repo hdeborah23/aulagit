@@ -1,3 +1,4 @@
 init-Inicializa um repositório 
 status - exibe status de working e stage 
-add - adiciona um arquivo no stage 
+add - adiciona um arquivo no stage  
+commit - fotografa os arquivos para o historico
